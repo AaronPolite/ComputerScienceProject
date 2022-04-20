@@ -1,0 +1,84 @@
+{"frames": {
+
+"Health Bar 1.png":
+{
+	"frame": {"x":0,"y":0,"w":164,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":48},
+	"sourceSize": {"w":164,"h":48}
+},
+"Health Bar 2.png":
+{
+	"frame": {"x":164,"y":0,"w":164,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":48},
+	"sourceSize": {"w":164,"h":48}
+},
+"Health Bar 3.png":
+{
+	"frame": {"x":328,"y":0,"w":164,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":48},
+	"sourceSize": {"w":164,"h":48}
+},
+"Health Bar 4.png":
+{
+	"frame": {"x":492,"y":0,"w":164,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":48},
+	"sourceSize": {"w":164,"h":48}
+},
+"Health Bar 5.png":
+{
+	"frame": {"x":656,"y":0,"w":164,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":48},
+	"sourceSize": {"w":164,"h":48}
+},
+"Health Bar 6.png":
+{
+	"frame": {"x":820,"y":0,"w":164,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":48},
+	"sourceSize": {"w":164,"h":48}
+},
+"Health Bar 7.png":
+{
+	"frame": {"x":984,"y":0,"w":164,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":48},
+	"sourceSize": {"w":164,"h":48}
+},
+"Health Drop (Full Health).png":
+{
+	"frame": {"x":1148,"y":0,"w":39,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":36},
+	"sourceSize": {"w":39,"h":36}
+},
+"Health Drop (Half Heart)).png":
+{
+	"frame": {"x":1187,"y":0,"w":21,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":36},
+	"sourceSize": {"w":21,"h":36}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "HealthBars.png",
+	"format": "RGBA8888",
+	"size": {"w":1208,"h":48},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:90ce6258fd6bac63760100d107110726:49dd65fb0b541f4e98b05fe41b3c91dd:8d6cecd40fa95327c33ec29482be0f00$"
+}
+}
